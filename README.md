@@ -6,7 +6,7 @@ This project analyzes the impact of remote work on employee well-being using a s
 
 ## Project Highlights
 
-- **Data Cleaning & Exploration:** SQL queries to check for missing values, duplicates, and data consistency.  
+- **Data Cleaning & Exploration:** Used Excel to check for missing values, duplicates, and data consistency.  
 - **Data Analysis:** Used SQL to calculate burnout averages, mental and physical health distributions, and work-life metrics.  
 - **Visualization & Presentation:** Insights summarized into a structured PowerPoint dashboard and summary PDF.
 
