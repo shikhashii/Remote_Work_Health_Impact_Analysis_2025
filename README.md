@@ -1,59 +1,79 @@
 # Remote Work Health Impact Analysis (2025)
 
-This project analyzes the impact of remote work on employee well-being using a survey dataset for the year 2025. The objective is to uncover insights about burnout, mental health, work-life balance, and physical health issues across different demographics, job roles, industries, and work arrangements (Remote, Hybrid, Onsite).
+This project analyzes the impact of remote work on employee well-being using a 2025 survey dataset of working professionals across multiple industries. The objective is to uncover data-driven insights on **burnout, mental health, work-life balance, and physical health trends** across different demographics, job roles, and work arrangements (Remote, Hybrid, Onsite), and provide actionable recommendations for organizations.
 
 ---
 
-## Project Highlights
+## 🎯 Project Objective
 
-- **Data Cleaning & Exploration:** Used Excel to check for missing values, duplicates, and data consistency.  
-- **Data Analysis:** Used SQL to calculate burnout averages, mental and physical health distributions, and work-life metrics.  
-- **Visualization & Presentation:** Insights summarized into a structured PowerPoint dashboard and summary PDF.
+To analyze how different work arrangements affect employee health and well-being, and help organizations design healthier, more productive, and sustainable work models using data-driven insights.
 
 ---
 
-## Key Metrics & Analysis
+## 📌 Project Highlights
 
-- Burnout scores by work arrangement and job roles.  
-- Mental health distribution by region and remote setup.  
-- Work hours and work-life balance across age groups.  
-- Physical health issues categorized by industry.  
+### 1. Data Cleaning & Exploration
+- Used Excel to handle missing values, remove duplicates, standardize categories, and maintain data consistency.
 
-------  
+### 2. Data Analysis
+- Used SQL (GROUP BY, CASE statements, aggregations, and filtering) to calculate burn-out averages, mental and physical health distributions, and work-life balance metrics.
 
-## Final Insights Summary
+### 3. Visualization & Presentation
+- Converted insights into a structured PowerPoint dashboard and summary report for business understanding.
 
-- Onsite employees are the largest group, followed by hybrid and remote setups.  
-- Mental health issues vary significantly across regions.  
-- Physical health problems are most common in **Professional Services, Technology, and Manufacturing** sectors.  
-- Employees aged **36–50** work the longest hours but report the **lowest burnout** levels.  
-- **HR, Software Engineers, Business Analysts, Sales Representatives, and Data Scientists** experience the **highest burnout** rates.  
-- The **20–35** age group demonstrates the **best work-life balance** overall.  
+---
+
+## 📊 Key Metrics & Analysis
+
+- Burnout scores by work arrangement and job roles  
+- Mental health distribution by region and remote setup  
+- Work hours vs. work-life balance across age groups  
+- Physical health issues categorized by industry  
+
+---
+
+## 💡 Final Insights Summary
+
+- Onsite employees form the largest work group, followed by hybrid and remote workers.
+- Mental health issues show **significant regional variation**.
+- Physical health problems are highest in **Professional Services, Technology, and Manufacturing** sectors.
+- Employees aged **36–50 work the longest hours but report the lowest burnout levels**.
+- Roles with the **highest burnout rates** include:
+  - HR
+  - Software Engineers
+  - Business Analysts
+  - Sales Representatives
+  - Data Scientists
+- The **20–35 age group** demonstrates the best overall work-life balance.
 - Remote workers report higher instances of **PTSD, anxiety, ADHD, depression, and burnout** compared to other groups.
 
 ---
 
-## Key Recommendations
+## ✅ Key Recommendations
 
-- **Support Mental Health:** Introduce counseling programs, wellness initiatives, and anonymous feedback systems.  
-- **Promote Flexibility:** Offer flexible hours and hybrid options to improve work-life balance.  
-- **Target High-Burnout Roles:** Adjust workloads and provide targeted support for stressful positions.  
-- **Improve Physical Well-being:** Provide ergonomic setups, health initiatives, and fitness programs.  
-- **Foster Social Connection:** Conduct virtual meetups and team-building activities for remote employees.
-
----
-
-## Business Outcome
-
-The analysis identifies the main drivers of burnout and mental health challenges in remote work environments.  
-Findings support evidence-based recommendations to strengthen employee well-being, improve retention, and design healthier hybrid work models.
+- Introduce **mental health support programs** such as counseling, wellness sessions, and anonymous feedback systems.
+- Expand **flexible and hybrid work options** to improve work-life balance.
+- Provide **targeted support for high-burnout roles** to reduce stress levels.
+- Improve **physical well-being** through ergonomic support, fitness programs, and health initiatives.
+- Strengthen **social connection** through virtual meetups and team engagement activities.
 
 ---
 
-## Tools Used
+## 📈 Business Outcome
+
+This analysis highlights the main drivers of burnout and health challenges in modern work environments. The insights can be used by **HR teams and business leaders** to strengthen employee well-being, improve retention, and design healthier hybrid work strategies.
+
+---
+
+## 🛠️ Tools Used
 
 - **Excel** – Data cleaning and preparation  
 - **MySQL** – Data analysis and querying  
 - **PowerPoint** – Data storytelling and presentation  
 
 ---
+
+## 🙌 Author
+
+**Shikha – Entry-Level Data Analyst**  
+Skills: SQL | Excel | Power BI | Tableau | Data Analysis | Visualization | Business Insights
